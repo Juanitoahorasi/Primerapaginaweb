@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title> Primera  pagina de juAan</title>
+        <meta charsert="UTF-8">
+        <Title> Bienvenidos Metahumanos a esta web </Title>
+            </head>
+        <body>
+        <a href="https://www.youtube.com/watch?v=kyMsCmjwBaI"> Doble click para ver mentiras
+        </a>
+        
+    <ul>
+    <li type="circle">Estoes un tipo de punto </li>
+    <Li type="square"> Otro tipo de punto</Li>
+    
+    <Ol>
+    <Li value="1"> Primer valor</li>
+    <li> Francia </li>
+    
+   <li> tRESsSs </lI>
+   
+    
+    <BR><BR>
+    <br>
+    
+    
+        &Eacute;sta es la primera Pagina de juAan
+        <br>
+        <p><b>
+          Holis
+            </p></b>
+
+            
+        </body>
+        </html>
