@@ -6,12 +6,13 @@
 
             </head>
         <body>
-     
+              <body text = "#868686">
+              
                <body bgcolor= "#5FFF62">
     <ul>
-    <li type="circle">Estoes un tipo de punto </li>
+    <li type="circle">Portfolio de Migliaro Juan Cruz </li>
            <BR>
-    <Li type="square"> Otro tipo de punto</Li>
+    <Li type="square"> Diseño y animacion digital autonomo</Li>
     
        <BR>
    
@@ -44,10 +45,9 @@
     
         &Eacute;sta es la primera Pagina de juan
         <br>
-        <p><b>
-          Holis
-            </p></b>
+  
 
             
         </body>
         </html>
+
