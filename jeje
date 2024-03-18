@@ -3,27 +3,46 @@
         <title> Primera  pagina de juAan</title>
         <meta charsert="UTF-8">
         <Title> Bienvenidos Metahumanos a esta web </Title>
+
             </head>
         <body>
-        <a href="https://www.youtube.com/watch?v=kyMsCmjwBaI"> Doble click para ver mentiras
-        </a>
-        
+     
+               <body bgcolor= "#5FFF62">
     <ul>
     <li type="circle">Estoes un tipo de punto </li>
+           <BR>
     <Li type="square"> Otro tipo de punto</Li>
     
+       <BR>
+   
+       <BR>
     <Ol>
     <Li value="1"> Primer valor</li>
-    <li> Francia </li>
-    
-   <li> tRESsSs </lI>
+           <BR>
+    <li> Francia </li> 
+           <BR>
+    <li> tRESsSs </lI>
    
-    
-    <BR><BR>
+          <BR>
+                 <BR>
+      <ul>
+         <a href>
+          <li> Inicio </li>
+            <a href>
+          <li> Proyectos </li>
+            <a href>
+          <li> Servicios </li>
+            <a href>
+          <li> Quien Soy </li>
+            </a href>
+      </ul>
+      
+    <BR>
+    <BR>
     <br>
     
     
-        &Eacute;sta es la primera Pagina de juAan
+        &Eacute;sta es la primera Pagina de juan
         <br>
         <p><b>
           Holis
